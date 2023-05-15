@@ -25,7 +25,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [ ] šířka stránky je omezena přes ``conteiner``
 * [ ] jedna galerie s obrázky (např. pomocí prvků typu Card)
 * [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
-* [ ] použitý carousel nebo hero s obrázkem
+* [*] použitý carousel nebo hero s obrázkem
 * [ ] vytvořený formulář (kontaktní, registrační)
 * [ ] sticky záhlaví stránky s menu
 * [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
