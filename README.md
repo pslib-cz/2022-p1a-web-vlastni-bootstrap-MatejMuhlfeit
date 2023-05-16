@@ -26,15 +26,14 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [ ] jedna galerie s obrázky (např. pomocí prvků typu Card)
 * [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
 * [*] použitý carousel nebo hero s obrázkem
-* [ ] vytvořený formulář (kontaktní, registrační)
-* [ ] sticky záhlaví stránky s menu
+* [*] vytvořený formulář (kontaktní, registrační)
+* [*] sticky záhlaví stránky s menu
 * [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
 * [ ] modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
 
 ### Estetická kritéria
 * [ ] stránka je hezká
-* [ ] prvky na sobě nejsou nalepené a je mezi nimi rozumná mezera
-
+* [*] prvky na sobě nejsou nalepené a je mezi nimi rozumná mezera
 ## Reference
 
 * https://getbootstrap.com/
